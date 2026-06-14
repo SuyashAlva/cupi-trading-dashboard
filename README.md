@@ -50,7 +50,12 @@ The first thing a reviewer sees after the hero: a gold-framed card with a trophy
 
 - **Sub-second streaming over Socket.io** — one room per symbol; each tick reaches only its subscribers (isolation-tested).
 - **Paper-trading desk** — buy/sell at live price; portfolio + P&L marked to market every tick; allocation donut.
+
+![Trading Drawer](./assets/trading-drawer-preview.png)
 - **Real-time activity feed**, **top movers**, **price alerts** (toast + browser notification), **trending carousel**, **market news**.
+The activity feed continuously streams simulated market events, trades, price changes, and portfolio actions to create a realistic trading environment.
+
+![Live Activity Feed](./assets/live-activity-preview.png)
 - **Command palette (⌘K)**, **slide-over trade drawer**, toasts, skeletons, animated counters, hover glow, price flash.
 - **Typed end to end** with a shared Socket.io event contract.
 
