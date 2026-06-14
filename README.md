@@ -16,7 +16,7 @@ A premium, real-time trading dashboard with a strong visual identity. Sign in, w
    └─────────────── fictional demo instrument ───────┘
 ```
 
-> Add a screenshot/GIF here before sharing — biggest perceived-quality lever for a portfolio repo.
+
 
 ---
 
@@ -97,9 +97,7 @@ Production build: `npm run build` then `npm start`.
 
 **Implemented & verified** (typecheck + build + isolation test pass): email login, Socket.io streaming, per-user isolation, watchlist, paper trading with live P&L, alerts, CUPI100, the full CUPI identity, and all listed dashboard sections. **Designed, not built:** Postgres persistence (schema in ARCHITECTURE.md) and candlestick/indicators. CUPI100 is intentionally fictional.
 
-## Deployment
 
-Client → Vercel/Netlify (`VITE_API_URL`, `VITE_WS_URL`). Server → Render/Railway/Fly (`PORT`, `JWT_SECRET`, `CLIENT_ORIGIN`).
 
 ## License
 
