@@ -2,11 +2,11 @@
 
 ## Dashboard Preview
 
-![Dashboard](./assets/dashboard-preview.png)
+![CUPI100](./assets/cupi100-preview.png)
 
 ## 🏆 CUPI100 Exclusive Feature
 
-![CUPI100](./assets/cupi100-preview.png)
+![Dashboard](./assets/dashboard-preview.png)
 
 ## 🎥 Demo Video
 
