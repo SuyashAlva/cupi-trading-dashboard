@@ -1,5 +1,5 @@
 # CUPI — Real-Time Trading Terminal
-
+https://github.com/SuyashAlva/cupi-trading-dashboard
 A premium, real-time trading dashboard with a strong visual identity. Sign in, watch live prices stream over Socket.io, build a watchlist, and run a paper-trading portfolio that marks to market every second — wrapped in a dark-violet brand world built to be *remembered*, not to look like an admin template.
 
 > Prices are synthesised by a server-side engine, so it runs with zero API keys and zero cost. **CUPI100** is a fictional, always-up "house" index used as a branded demo easter-egg.
